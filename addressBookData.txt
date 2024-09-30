@@ -1,0 +1,38 @@
+Shelly Malik Family 12 8 2000 
+Lincoln Drive
+Omaha
+NE
+68131
+402-555-1212
+Donald Duck Friend 10 6 1980
+Disney Street
+Orlando
+FL
+11234
+622-873-8920
+Chelsea Tomak Friend 12 8 1999
+Kennedy Blvd
+Omaha
+NE
+68172
+402-777-8888
+Goof Goofy Family 2 6 1965
+Disney Street
+Los Angles
+CA
+91340
+215-782-9000
+Brave Balto Business 2 6 1975
+Disney Road
+Orlando
+FL
+35672
+415-782-5555
+
+Bash Bashfull Friend 2 8 1965
+Long Road
+New York
+NY
+01101
+212-782-8000
+

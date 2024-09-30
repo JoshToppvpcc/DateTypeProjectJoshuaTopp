@@ -1,3 +1,5 @@
+
+#define DATETYPE_H
 #include <iostream>
 
 class dateType {
